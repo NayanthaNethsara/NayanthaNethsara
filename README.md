@@ -18,6 +18,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![C/C++](https://img.shields.io/badge/-C/C++-333333?style=for-the-badge&logo=c)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
