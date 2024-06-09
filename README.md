@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/-Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
     <a href="https://www.behance.net/nayaa_gg">
-    <img src="https://img.shields.io/badge/-Behance-RRGGBB?style=for-the-badge&logo=behance&logoColor=white" alt="Spotify">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Spotify">
   </a>
 </div>
 
