@@ -13,8 +13,9 @@
   
   <br/>
 </p>
-
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nayantha%20Nethsara&theme=dark&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+</p>
 
 ### 🛠 Tech Stack
 
