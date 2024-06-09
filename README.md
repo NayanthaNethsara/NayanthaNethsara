@@ -1,22 +1,18 @@
 ### Ayubowan/Hello! 👋
 
-I'm [Your Name], a passionate developer who loves to create and innovate. Welcome to my GitHub profile!
+```bash
+> #=> Hi , I'm Mihin ,
+> pwd
+> srilanka/matara
+> cat info.bla | grep about
+> about: A cyber security & open source enthusianst.
+```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image.png" alt="Your Profile Picture" width="200" style="border-radius:50%;"/>
-</div>
-
----
-
-### ✨ About Me
-
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 💼 I’m working on **[Project/Job]**
-- 💬 Ask me about **[Topics you are interested in]**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: **[Something interesting about you]**
-
----
+<p align="center">
+  <img src = "https://media4.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=ecf05e47pxsc80ubn0smax3q06ty9yb6z1l4bznk61o1gyf1&rid=giphy.gif&ct=g" width = "320" height = "200" style="border-radius:5px;"/>
+    <!-- a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mihinN's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mihinN&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a -->
+  <br/>
+</p>
 
 ### 🛠 Tech Stack
 
@@ -27,32 +23,23 @@ I'm [Your Name], a passionate developer who loves to create and innovate. Welcom
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/nayanthanethsara/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://www.facebook.com/nethsara.nayantha/">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/nayaa.gg">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/-Website-333333?style=for-the-badge&logo=web&logoColor=white" alt="Website">
+  <a href="https://open.spotify.com/user/31pwcbckpvwkdk3elfgb6hbms3ny">
+    <img src="https://img.shields.io/badge/-Website-333333?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+    <a href="https://www.behance.net/nayaa_gg">
+    <img src="https://img.shields.io/badge/-Website-333333?style=for-the-badge&logo=behance&logoColor=white" alt="Spotify">
   </a>
 </div>
 
@@ -60,14 +47,10 @@ I'm [Your Name], a passionate developer who loves to create and innovate. Welcom
 
 ### 📧 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [nayanthanethsara@gmail.com](mailto:nayanthanethsara@gmail.com)
 
 ---
 
 Feel free to explore my repositories and projects. Contributions, suggestions, and collaborations are always welcome!
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/YOUR_GIPHY_ID/giphy.gif" alt="Fun GIF" width="400"/>
-</div>
