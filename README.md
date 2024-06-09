@@ -14,6 +14,8 @@
   <br/>
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nayantha%20Nethsara&theme=dark&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
