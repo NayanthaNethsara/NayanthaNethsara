@@ -1,11 +1,11 @@
 ### Ayubowan/Hello! 👋
 
 ```bash
-> #=> Hi , I'm Mihin ,
+> #=> Hi , I'm Nayantha Nethsara ,
 > pwd
-> srilanka/matara
+> srilanka/colombo
 > cat info.bla | grep about
-> about: A cyber security & open source enthusianst.
+> about: A computer science & open source enthusianst.
 ```
 
 <p align="center">
