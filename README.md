@@ -13,9 +13,12 @@
   
   <br/>
 </p>
-<p align="center">
+
+###
+
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-</p>
+
+###
 
 ### 🛠 Tech Stack
 
