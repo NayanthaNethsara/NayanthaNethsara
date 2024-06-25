@@ -14,7 +14,7 @@
   <br/>
 </p>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nayantha%20Nethsara&theme=dark&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 </p>
 
 ### 🛠 Tech Stack
