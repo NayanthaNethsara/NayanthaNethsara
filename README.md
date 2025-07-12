@@ -25,8 +25,6 @@
 Feel free to explore my repositories and projects. Contributions, suggestions, and collaborations are always welcome!
 
 ---
-# Quick Image Update Test
-
 [![Send 1](https://img.shields.io/badge/Send-1-blue)](https://minesweeper-git-backend.vercel.app/api/click?value=1)
 [![Send 0](https://img.shields.io/badge/Send-0-green)](https://minesweeper-git-backend.vercel.app/api/click?value=0)
 [![Send Random](https://img.shields.io/badge/Send-Random-orange)](https://minesweeper-git-backend.vercel.app/api/click?value=10)
