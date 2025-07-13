@@ -24,12 +24,3 @@
 
 Feel free to explore my repositories and projects. Contributions, suggestions, and collaborations are always welcome!
 
----
-[![Send 1](https://img.shields.io/badge/Send-1-blue)](https://minesweeper-git-backend.vercel.app/api/set?value=1)
-[![Send 0](https://img.shields.io/badge/Send-0-green)](https://minesweeper-git-backend.vercel.app/api/set?value=0)
-[![Send Random](https://img.shields.io/badge/Send-Random-orange)](https://minesweeper-git-backend.vercel.app/api/set?value=10)
-
-<a href="https://minesweeper-git-backend.vercel.app/api/set?value=1">
-  <img src="https://minesweeper-git-backend.vercel.app/api/image" alt="Current Image" width="50" />
-</a>
-
