@@ -25,27 +25,126 @@ Click the links below to reveal cells on the Minesweeper grid.
 ### Grid Controls
 
 <table align="center" style="border-collapse: collapse;">
-  <!-- Generate 10x10 cells -->
-  <!-- Each cell is a link to reveal that position -->
-  <!-- Cell size and styling minimal for markdown -->
-  ${
-    Array(10).fill(0).map((_, y) => `
-    <tr>
-      ${
-        Array(10).fill(0).map((_, x) => `
-          <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;">
-            <a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=${x}&y=${y}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a>
-          </td>
-        `).join("")
-      }
-    </tr>
-    `).join("")
-  }
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=1" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=7" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=8" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=6&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=7&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=8&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+    <td style="padding: 4px; border: 1px solid #ccc; text-align: center; width: 24px; height: 24px;"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=9&y=9" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 18px;">⬜</a></td>
+  </tr>
 </table>
 
----
-
-**Note:** Replace the domain with your live deployed API domain if different.
-
----
 
