@@ -12,7 +12,7 @@
 
 <p align="center">
   <img 
-    src="https://minesweeper-git-backend.vercel.app/api/grid" 
+    src="https://minesweeper-git-backend.vercel.app/api/grid?ts=3641204" 
     width="600" height="600" 
     style="border-radius: 8px;" 
     alt="Minesweeper Grid" />
