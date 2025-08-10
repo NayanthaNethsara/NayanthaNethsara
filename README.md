@@ -24,3 +24,13 @@
 
 Feel free to explore my repositories and projects. Contributions, suggestions, and collaborations are always welcome!
 
+___
+
+## Experiment
+<p align="center">
+  <img src = "https://minesweeper-git-backend.vercel.app/api/grid" width = "600" height = "600" style="border-radius:5px;"/>
+  
+  <br/>
+</p>
+
+
