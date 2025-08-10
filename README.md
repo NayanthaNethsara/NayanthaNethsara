@@ -14,12 +14,4 @@
   <br/>
 </p>
 
-###
-
-###
-
-### 📧 Contact Me
-
-- Email: [nayanthanethsara@gmail.com](mailto:nayanthanethsara@gmail.com)
-
 Feel free to explore my repositories and projects. Contributions, suggestions, and collaborations are always welcome!
