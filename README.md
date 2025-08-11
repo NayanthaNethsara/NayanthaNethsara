@@ -1,14 +1,11 @@
-### Ayubowan/Hello! 👋
+> I'm Nayantha Nethsara.  
+> If you want to find me, just Google it or check LinkedIn — this isn't a biography, just a playground for my questionable decisions.  
+> Speaking of which, sorry for the gameplay. It's probably as confusing as my life choices.
 
-```bash
-> #=> Hi , I'm Nayantha Nethsara ,
-> pwd
-> srilanka/colombo
-> cat info.bla | grep about
-> about: A computer science & open source enthusianst.
-```
+> **Disclaimer:**  
+> I’ve done a lot of stupid things in my life. Some of them, I honestly don’t know how the hell I found time for — yet here I am, spending more time on this Minesweeper madness. And no, I *still* don’t think this project counts as one of those stupid things.  
+> So please forgive the gameplay. It might be rough, but hey, at least it’s honest.
 
-# Minesweeper Game
 
 <p align="center">
   <img 
@@ -18,11 +15,6 @@
     alt="Minesweeper Grid" />
 </p>
 
-## How to Play
-
-Click the links below to reveal cells on the Minesweeper grid.
-
-### Grid Controls
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
