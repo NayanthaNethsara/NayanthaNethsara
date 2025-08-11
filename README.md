@@ -72,4 +72,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://minesweeper-git-backend.vercel.app/api/reset" style="text-decoration: none; 
+    background-color: #007acc; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">
+    🔄 Reset Game
+  </a>
+</p>
 
