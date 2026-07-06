@@ -1,16 +1,15 @@
-Hi, I'm Nayantha Nethsara.
-
-Honestly, fancy GitHub profiles are overrated, so here is a simple game for you to play instead.
-Sorry in advance for the gameplay, this markdown has very limited options.
-
-It's Minesweeper and it was created in 1989 by Curt Johnson and Robert Donner. It got famous when Microsoft put it on Windows to teach people how to use a computer mouse. Full credit goes to the original creators.
-
-### How to Play
-
-- Since you can't interact with the board directly in Markdown, click the number of the cell you want to reveal from the button grid below.
-- The numbers on the board show how many mines are touching that square.
-
-_By the way, there are 12 bugs hidden in the grid. Have fun!_
+> Hi, I'm Nayantha Nethsara.
+> Honestly, fancy GitHub profiles are overrated, so here is a simple game for you to play instead.
+> Sorry in advance for the gameplay, this markdown has very limited options.
+> 
+> It's Minesweeper and it was created in 1989 by Curt Johnson and Robert Donner. It got famous when Microsoft put it on Windows to teach people how to use a computer mouse. Full credit goes to the original creators.
+> 
+> ### How to Play
+> 
+> - Since you can't interact with the board directly in Markdown, click the number of the cell you want to reveal from the button grid below.
+> - The numbers on the board show how many mines are touching that square.
+> 
+> _By the way, there are 12 bugs hidden in the grid. Have fun!_
 
 <p align="center">
   <img 
