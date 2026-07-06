@@ -10,7 +10,7 @@ It's Minesweeper and it was created in 1989 by Curt Johnson and Robert Donner. I
 - Since you can't interact with the board directly in Markdown, click the number of the cell you want to reveal from the button grid below.
 - The numbers on the board show how many mines are touching that square.
 
-_By the way, tthere are 12 bugs hidden in the grid. Have fun!_
+_By the way, there are 12 bugs hidden in the grid. Have fun!_
 
 <p align="center">
   <img 
