@@ -1,10 +1,16 @@
-> I'm Nayantha Nethsara.  
-> If you want to find me, just Google it or check LinkedIn — this isn't a biography, just a playground for my questionable decisions.  
-> Speaking of which, sorry for the gameplay. It's probably as confusing as my life choices.
+Hi, I'm Nayantha Nethsara.
 
-> **Disclaimer:**  
-> I’ve done a lot of stupid things in my life. Some of them, I honestly don’t know how the hell I found time for — yet here I am, spending more time on this Minesweeper madness. And no, I _still_ don’t think this project counts as one of those stupid things.  
-> So please forgive the gameplay. It might be rough, but hey, at least it’s honest.
+Honestly, fancy GitHub profiles are overrated, so here is a simple game for you to play instead.
+Sorry in advance for the gameplay, this markdown has very limited options.
+
+It's Minesweeper and it was created in 1989 by Curt Johnson and Robert Donner. It got famous when Microsoft put it on Windows to teach people how to use a computer mouse. Full credit goes to the original creators.
+
+### How to Play
+
+- Since you can't interact with the board directly in Markdown, click the number of the cell you want to reveal from the button grid below.
+- The numbers on the board show how many mines are touching that square.
+
+_By the way, tthere are 12 bugs hidden in the grid. Have fun!_
 
 <p align="center">
   <img 
