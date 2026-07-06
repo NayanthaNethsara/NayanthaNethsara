@@ -20,58 +20,57 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=0" target="_blank" rel="noopener noreferrer"><code>A1</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=0" target="_blank" rel="noopener noreferrer"><code>B1</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=0" target="_blank" rel="noopener noreferrer"><code>C1</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=0" target="_blank" rel="noopener noreferrer"><code>D1</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=0" target="_blank" rel="noopener noreferrer"><code>E1</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=0" target="_blank" rel="noopener noreferrer"><code>F1</code></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-A1-21262d?style=flat-square" alt="A1" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-B1-21262d?style=flat-square" alt="B1" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-C1-21262d?style=flat-square" alt="C1" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-D1-21262d?style=flat-square" alt="D1" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-E1-21262d?style=flat-square" alt="E1" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-F1-21262d?style=flat-square" alt="F1" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=1" target="_blank" rel="noopener noreferrer"><code>A2</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=1" target="_blank" rel="noopener noreferrer"><code>B2</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=1" target="_blank" rel="noopener noreferrer"><code>C2</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=1" target="_blank" rel="noopener noreferrer"><code>D2</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=1" target="_blank" rel="noopener noreferrer"><code>E2</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=1" target="_blank" rel="noopener noreferrer"><code>F2</code></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-A2-21262d?style=flat-square" alt="A2" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-B2-21262d?style=flat-square" alt="B2" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-C2-21262d?style=flat-square" alt="C2" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-D2-21262d?style=flat-square" alt="D2" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-E2-21262d?style=flat-square" alt="E2" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-F2-21262d?style=flat-square" alt="F2" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=2" target="_blank" rel="noopener noreferrer"><code>A3</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=2" target="_blank" rel="noopener noreferrer"><code>B3</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=2" target="_blank" rel="noopener noreferrer"><code>C3</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=2" target="_blank" rel="noopener noreferrer"><code>D3</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=2" target="_blank" rel="noopener noreferrer"><code>E3</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=2" target="_blank" rel="noopener noreferrer"><code>F3</code></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-A3-21262d?style=flat-square" alt="A3" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-B3-21262d?style=flat-square" alt="B3" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-C3-21262d?style=flat-square" alt="C3" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-D3-21262d?style=flat-square" alt="D3" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-E3-21262d?style=flat-square" alt="E3" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-F3-21262d?style=flat-square" alt="F3" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=3" target="_blank" rel="noopener noreferrer"><code>A4</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=3" target="_blank" rel="noopener noreferrer"><code>B4</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=3" target="_blank" rel="noopener noreferrer"><code>C4</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=3" target="_blank" rel="noopener noreferrer"><code>D4</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=3" target="_blank" rel="noopener noreferrer"><code>E4</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=3" target="_blank" rel="noopener noreferrer"><code>F4</code></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-A4-21262d?style=flat-square" alt="A4" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-B4-21262d?style=flat-square" alt="B4" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-C4-21262d?style=flat-square" alt="C4" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-D4-21262d?style=flat-square" alt="D4" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-E4-21262d?style=flat-square" alt="E4" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-F4-21262d?style=flat-square" alt="F4" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=4" target="_blank" rel="noopener noreferrer"><code>A5</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=4" target="_blank" rel="noopener noreferrer"><code>B5</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=4" target="_blank" rel="noopener noreferrer"><code>C5</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=4" target="_blank" rel="noopener noreferrer"><code>D5</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=4" target="_blank" rel="noopener noreferrer"><code>E5</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=4" target="_blank" rel="noopener noreferrer"><code>F5</code></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-A5-21262d?style=flat-square" alt="A5" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-B5-21262d?style=flat-square" alt="B5" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-C5-21262d?style=flat-square" alt="C5" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-D5-21262d?style=flat-square" alt="D5" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-E5-21262d?style=flat-square" alt="E5" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-F5-21262d?style=flat-square" alt="F5" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=5" target="_blank" rel="noopener noreferrer"><code>A6</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=5" target="_blank" rel="noopener noreferrer"><code>B6</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=5" target="_blank" rel="noopener noreferrer"><code>C6</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=5" target="_blank" rel="noopener noreferrer"><code>D6</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=5" target="_blank" rel="noopener noreferrer"><code>E6</code></a></td>
-    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=5" target="_blank" rel="noopener noreferrer"><code>F6</code></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=0&y=5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-A6-21262d?style=flat-square" alt="A6" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=1&y=5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-B6-21262d?style=flat-square" alt="B6" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=2&y=5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-C6-21262d?style=flat-square" alt="C6" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=3&y=5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-D6-21262d?style=flat-square" alt="D6" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=4&y=5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-E6-21262d?style=flat-square" alt="E6" /></a></td>
+    <td align="center"><a href="https://minesweeper-git-backend.vercel.app/api/reveal?x=5&y=5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-F6-21262d?style=flat-square" alt="F6" /></a></td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://minesweeper-git-backend.vercel.app/api/reset" style="text-decoration: none; 
-    background-color: #007acc; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">
-    Reset Game
+  <a href="https://minesweeper-git-backend.vercel.app/api/reset">
+    <img src="https://img.shields.io/badge/-Reset%20Game-ea4335?style=flat-square" alt="Reset Game" />
   </a>
 </p>
